@@ -21,3 +21,14 @@ This project collects book data from a website using web scraping techniques, pe
 - eda.py → Data analysis and visualization
 - sentiment.py → Sentiment analysis
 - books.csv → Scraped dataset
+
+## Project Screenshots
+
+### EDA Graph
+![EDA Graph](eda-graph.png)
+
+### Sentiment Analysis Output
+![Sentiment Output](sentiment-output.png)
+
+### Web Scraping Output
+![Scraper Output](scraper-output.png)
